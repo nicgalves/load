@@ -10,6 +10,3 @@ Este projeto é uma **página web simples** que exibe um efeito de carregamento 
 - CSS3
 
 ---
-
-## Estrutura do Projeto
-
